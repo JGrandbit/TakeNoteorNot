@@ -17,4 +17,3 @@ Upon saving, note is added to the left hand side where you should be able to del
 <img width="1428" alt="Screen Shot 2021-05-06 at 7 43 57 PM" src="https://user-images.githubusercontent.com/75192030/117391144-3612bf80-aea4-11eb-86af-c9da42eeb8cf.png">
 
 
-Live link https://jgrandbit.github.io/TakeNoteorNot/
